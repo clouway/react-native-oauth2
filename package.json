@@ -1,0 +1,20 @@
+{
+  "name": "react-native-oauth2",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-config": "^0.10.0",
+    "react-native-keychain": "^1.2.1",
+    "react-native-simple-auth": "^2.1.0"
+  }
+}
