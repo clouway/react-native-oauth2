@@ -34,7 +34,6 @@ export default class {
             s.push(`${encodeURIComponent(key)}=${encodeURIComponent(tokenRequest[key])}`)
           }
         }
-        const targetUrl = s.join('&')
         fetch(this.tokenUrl, {
           method: 'POST',
           headers: {
