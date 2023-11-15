@@ -1,6 +1,6 @@
 {
   "name": "clouway-react-native-oauth2",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.63.3"
+    "react-native": "0.68+"
   }
 }
